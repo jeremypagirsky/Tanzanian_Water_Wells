@@ -20,9 +20,9 @@ Water well funding was split between wells funded by the Tanzanian government an
 
 The Random Forest classifier was 73.5% accurate in classifying water well functionality.
 
-!(.images/confusion_matrix.png/)
+![Confusion Matrix](.images/confusion_matrix.png/)
 
-!(./images/feature_importance.png/)
+![Feature Importance](./images/feature_importance.png/)
 
 ## Conclusions
 
