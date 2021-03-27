@@ -18,7 +18,7 @@ Water well funding was split between wells funded by the Tanzanian government an
 
 ## Results
 
-The Random Forest classifier was 73.5% accurate in classifying water well functionality.
+The Random Forest classifier was 73.4% accurate in classifying water well functionality.
 
 ![Confusion Matrix](./images/confusion_matrix.png/)
 
@@ -26,11 +26,10 @@ The Random Forest classifier was 73.5% accurate in classifying water well functi
 
 ## Conclusions
 
-**The type of funding is a weak predictor in water well functionality.** Water well functionality is difficult to predict based on the funding source.
-
-**The amount of water in a well plays a large role in its functionality.** This model demonstrates that the amount of water in the well itself is a major predictor in its functionality.
-
-**The method of water extraction predicts water well functionality.** Various methods are used to extract water, which can also predict the well's functionality.
+- The type of funding is a weak predictor in water well functionality. 
+- The amount of water in a well plays a large role in its functionality.
+- The type of water well can predict functionality.
+- The method of water extraction predicts water well functionality.
 
 ## Future Work
 
@@ -48,6 +47,6 @@ For any additional questions, please contact ***Jeremy Pagirsky (jeremy.pagirsky
 ```
 ├── README.md                                  <- The README for reviewers of this project
 ├── Tanzania_Waterpump_Classification.ipynb    <- Narrative documentation of analysis in Jupyter notebook
-├── .pdf            <- PDF version of project presentation
+├── Tanzanian_Water_Well_Classification.pdf    <- PDF version of project presentation
 └── images                                     <- Images of visualizations
 ```
