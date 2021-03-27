@@ -10,7 +10,7 @@ One potential present-day impact of colonization is the dependency on colonizing
 
 ## Data
 
-Data on over 59000 water wells in Tanzania up to the year 2013 was supplied by the Flatiron School. This data is part of a [DrivenData competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/)
+Data on over 59000 water wells in Tanzania up to the year 2013 was supplied by the Flatiron School. This data is part of a [DrivenData competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/).
 
 ## Methods
 
@@ -20,9 +20,9 @@ Water well funding was split between wells funded by the Tanzanian government an
 
 The Random Forest classifier was 73.5% accurate in classifying water well functionality.
 
-![Confusion Matrix](.images/confusion_matrix.png/)
+!(.images/confusion_matrix.png/)
 
-![Feature Importance](./images/feature_importance.png/)
+!(./images/feature_importance.png/)
 
 ## Conclusions
 
@@ -48,6 +48,6 @@ For any additional questions, please contact ***Jeremy Pagirsky (jeremy.pagirsky
 ```
 ├── README.md                                  <- The README for reviewers of this project
 ├── Tanzania_Waterpump_Classification.ipynb    <- Narrative documentation of analysis in Jupyter notebook
-├── .pdf       <- PDF version of project presentation
+├── .pdf            <- PDF version of project presentation
 └── images                                     <- Images of visualizations
-```# Tanzanian_Water_Wells
+```
